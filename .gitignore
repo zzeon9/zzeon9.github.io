@@ -1,0 +1,30 @@
+# jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# config
+*.yml
+
+404.html
+about.html
+about.markdown
+contact.html
+Gemfile
+Gemfile.lock
+index.markdown
+jekyll-theme-clean-blog.gemspec
+LICENSE
+package-lock.json
+package.json
