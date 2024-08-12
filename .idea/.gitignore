@@ -13,3 +13,7 @@ misc.xml
 modules.xml
 vcs.xml
 zzeon9.github.io.iml
+
+Gemfile
+*.markdown
+404.html
