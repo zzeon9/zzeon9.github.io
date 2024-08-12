@@ -16,15 +16,3 @@ vendor
 
 # config
 *.yml
-
-404.html
-about.html
-about.markdown
-contact.html
-Gemfile
-Gemfile.lock
-index.markdown
-jekyll-theme-clean-blog.gemspec
-LICENSE
-package-lock.json
-package.json
